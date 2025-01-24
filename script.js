@@ -2,9 +2,6 @@
 // array methods
 // math methods
 
-
-
-
 function backgroundClr(){
     x=Math.random()*1000000
     y=Math.floor(x)
